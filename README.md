@@ -16,7 +16,7 @@ docker-compose up -d
 
 ## Jupyterを開く
 
-http://localhost:8888 をブラウザで開く。
+http://localhost:9999 をブラウザで開く。
 
 ## チュートリアルを開く
 
