@@ -27,3 +27,7 @@ Jupyter内でwork/tutorial.ipynbを開く
 環境構築方法など
 
 [機械学習で仮想通貨取引をするチュートリアル。python](https://qiita.com/richmanbtc/items/05916384bf9d2b1e2f35)
+
+
+## windows
+docker start 3c212591d490
