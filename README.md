@@ -30,4 +30,6 @@ Jupyter内でwork/tutorial.ipynbを開く
 
 
 ## windows
+```bash
 docker start 3c212591d490
+```
